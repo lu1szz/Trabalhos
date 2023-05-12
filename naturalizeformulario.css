@@ -1,0 +1,14 @@
+body{
+    background-color: seagreen;
+}
+div{
+    text-align: center;
+}
+.nome{
+    text-align: center;
+    color: white;
+}
+a{
+    text-align: center;
+    font-size: 10px;
+}

@@ -1,0 +1,49 @@
+body{
+    background-color: seagreen;
+}
+p{
+    color: white;
+    text-align: center;
+   
+}
+h1{
+    text-align: center;
+    color: white;
+}
+h3{
+    text-align: center;
+    color: white;
+}
+.titulo{
+    color: white;
+    text-align: center;
+}
+#produtos{
+    color: white;
+    text-align: center;
+}
+img{
+    height: 200px;
+    width: 350px;
+    border-radius: 10px;
+    border-style: solid;
+}
+div{   
+    text-align: center;
+}
+
+a{
+    text-align: center;
+    text-decoration: solid;
+    font-size: 20px;
+    background-color: seagreen;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.container{
+    display:flex
+}
+a{
+    text-align: center;
+}
