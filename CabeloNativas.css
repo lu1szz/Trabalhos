@@ -1,0 +1,22 @@
+body{
+    background-color: white;
+}
+div{
+    text-align: center;
+}
+.cabelo{
+    width: 500px;
+    height: auto;
+}
+.nativa{
+   height: auto;
+   width: auto;
+}
+.trança{
+    height: 350px;
+    width: 400px;
+}
+.penteado{
+    height: 250px;
+    width: 350px;
+}
